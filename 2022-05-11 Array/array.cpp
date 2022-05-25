@@ -8,9 +8,8 @@ int main(){
     "Samuel", 
     "Justin"
     }; 
-    fo/*  */r (int i = 0; i <4; i++ ){
+    for (int i = 0; i <4; i++ ){
         cout<<namaSiswa[i]<<endl;
-
     }
     
     
